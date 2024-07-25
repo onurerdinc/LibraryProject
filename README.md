@@ -10,3 +10,10 @@ Welcome to my first-ever project, a fictional library landing page! This simple 
 - Vertical stacking with z-index
 
 ## Project Images
+
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+
+![First Page](./images/project%20images/Page1.png)
+![Second Page](./images/project%20images/Page2.png)
+![Third Page](./images/project%20images/Page3.png)
+![Fourth Page](./images/project%20images/Page4.png)
